@@ -25,7 +25,7 @@
 <img src="./img/그림02.bmp">
 
 - 동영상
-[![](./img/동영상이미지.)](https://www.youtube.com/watch?time_continue=1&v=A2GRQmMuOAw)
+[![](./img/동영상이미지.jpg)](https://www.youtube.com/watch?time_continue=1&v=A2GRQmMuOAw)
 
 <br><br>
 # [대표 이미지]
